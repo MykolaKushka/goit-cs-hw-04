@@ -1,0 +1,2 @@
+Another example of a test file.
+This file contains a keyword: homework.

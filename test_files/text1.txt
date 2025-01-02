@@ -1,0 +1,3 @@
+This is an example file.
+It contains some test content.
+This file does not contain any keywords.
